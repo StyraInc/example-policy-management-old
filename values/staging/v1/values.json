@@ -1,0 +1,5 @@
+{
+    "FeatureFlags": {
+        "NewFeature1-staging"
+      }
+}
