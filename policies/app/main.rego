@@ -2,7 +2,7 @@ package global.policies.app
 
 import data.global.policies.common.utils
 
-main = x {
+main = claims {
   claims := utils.claims_from_jwt("mocktoken")
 }
 
