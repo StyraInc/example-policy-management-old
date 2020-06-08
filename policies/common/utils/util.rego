@@ -1,4 +1,4 @@
-package common.utils
+package global.common.utils
 
 # https://test.styra.com/v1/docs/tutorials/envoy/#jwt-verification-and-inspection
 
