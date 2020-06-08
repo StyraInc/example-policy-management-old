@@ -2,7 +2,7 @@
     "FeatureFlags": {
         "NewFeature1-dev",
         "NewFeature2-dev"
-      }
+      },
 
     "Users": [
       "alice"
