@@ -1,5 +1,5 @@
 {
-    "FeatureFlags": {
-        "NewFeature1-staging"
-      }
+    "AllowedWriterRoles": [
+      "writer"
+    ]
 }
