@@ -1,6 +1,6 @@
 {
-    "FeatureFlags": [
-        "NewFeature1-test",
-        "NewFeature2-test"
+    "AllowedWriterRoles": [
+      "reader",
+      "writer"
     ]
 }
