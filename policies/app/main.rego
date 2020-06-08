@@ -1,6 +1,6 @@
 package global.policies.app
 
-import global.policies.common.utils
+import data.global.policies.common.utils
 
 main = x {
   claims := utils.claims_from_jwt("mocktoken")
