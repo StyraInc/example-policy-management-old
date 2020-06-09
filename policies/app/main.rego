@@ -2,8 +2,8 @@ package global.policies.app
 
 import data.global.policies.common.utils
 
-# Extract claims from JWT. In a real appliation, this might come from input.
-claims := utils.claims_from_jwt("mock_token")
+# Extract claims from JWT. Note that for this example, the returned claims map is mocked.
+claims := utils.claims_from_jwt(input.jwt)
 
 # Check whether write is allowed, based on the JWT claims and the data.context
 # for this environment.
